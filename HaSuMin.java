@@ -10,7 +10,8 @@ public class MainActivity extends AppCompatActivity {
         // 해당 주석 영역 안에 여러분이 기억나는 Android Code를 아무거나 작성해주세요
         // ↓ into Here
 
-
+        android.widget.Toast.makeText(this, "Hahahahahahahahaha.......... sumin", Toast.LENGTH_SHORT).show();
+        setTitle("내일 집 가요 ㅈ집집집");
 
         // ↑ into Here
         // 해당 주석 영역 안에 여러분이 기억나는 Android Code를 아무거나 작성해주세요
